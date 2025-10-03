@@ -126,6 +126,7 @@ int main() {
     printf("Resultado: Carta 2 venceu!\n");
   };
   
+  
   printf("\nÁREA\n");
   printf("Carta 1 - %s (%s): %.3f\n", cidade1, codigo1, area1);
   printf("Carta 2 - %s (%s): %.3f\n", cidade2, codigo2, area2);
