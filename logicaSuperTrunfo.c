@@ -25,11 +25,11 @@ int main() {
   // ############################
   printf("\n==== CADASTRO DA PRIMEIRA CARTA ====\n");
 
-  printf("Nome do estado (SEM ESPAÇOS; ex. São-Paulo):\n");
+  printf("Nome do estado (SEM ESPAÇOS; ex. Rio-de-Janeiro):\n");
   (void)scanf("%s", primeiroEstado); // recebe um inteiro e armazena na variável b
   printf("Código do estado (ex. RJ);\n");
   (void)scanf("%s", codigo1);
-  printf("Nome da cidade (SEM ESPAÇOS; ex. São-Paulo):\n");
+  printf("Nome da cidade (SEM ESPAÇOS; ex. Rio-de-Janeiro):\n");
   (void)scanf("%s", cidade1);
   printf("População da Cidade:\n");
   (void)scanf("%lu", &populacao1);
